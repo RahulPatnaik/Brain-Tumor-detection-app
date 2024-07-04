@@ -1,0 +1,1 @@
+This folder should contain the necessary index savepoints from tensorflow in-order for it to work.
